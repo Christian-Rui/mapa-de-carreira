@@ -1,0 +1,39 @@
+/* /* body {
+    background-color: ;
+} */
+
+/* :root{
+    --color-bg: #663399
+}
+
+.light-theme {
+    background-color: #F6F8FF;
+}
+
+.dark-theme {
+    background-color: #252422;
+}
+
+.list-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.dark-theme .resume-header{
+    background-color: var(--color-bg);
+}
+
+#btnTheme {
+    margin: 0;
+    background-color: #59578E;
+    border: none;
+}
+
+.dark-theme #btnTheme {
+    background-color: var(--color-bg);
+}
+
+.icon-theme{
+    font-size: 25px;
+} */ 
